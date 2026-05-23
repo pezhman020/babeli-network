@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Babeli Network</string>
+    <string name="notification_channel_name">Network Monitor</string>
+    <string name="notification_title">Babeli Network is running</string>
+    <string name="notification_text">Monitoring your network traffic</string>
+    <string name="permission_usage_stats">Usage Access required to monitor per-app data</string>
+    <string name="permission_location">Location permission required for WiFi scanning</string>
+</resources>

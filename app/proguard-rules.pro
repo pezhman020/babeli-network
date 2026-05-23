@@ -1,0 +1,3 @@
+-keep class com.babeli.network.** { *; }
+-keepattributes *Annotation*
+-dontwarn kotlin.**
